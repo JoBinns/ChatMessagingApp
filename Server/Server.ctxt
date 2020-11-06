@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Server
+comment1.params=port\ mg
+comment1.target=Server(int,\ myGUI)
+comment1.text=\n\ the\ server\ constructor\n\ @param\ port,\ mg\ the\ port\ to\ listen\ for\ connection,\ the\ server\ GUI\n
+comment2.params=
+comment2.target=void\ start()
+comment3.params=
+comment3.target=void\ stop()
+comment4.params=msg
+comment4.target=void\ displayEvent(java.lang.String)
+comment4.text=\n\ display\ an\ event(not\ a\ message)to\ the\ GUI\n\ @param\ msg\ the\ message\ passed\ as\ a\ string\n
+comment5.params=msg
+comment5.target=void\ displayMsg(java.lang.String)
+comment5.text=\n\ display\ a\ message\ to\ the\ GUI\n\ @param\ msg\ the\ message\ passed\ as\ a\ string\n
+comment6.params=
+comment6.target=void\ chatSave()
+comment7.params=message
+comment7.target=void\ broadcast(java.lang.String)
+comment7.text=\n\ method\ to\ broadcast\ a\ message\ to\ all\ clients\n\ @param\ message\ the\ message\ passed\ in\ as\ a\ string\n
+comment8.params=id
+comment8.target=void\ remove(int)
+comment8.text=\n\ for\ a\ client\ who\ logs\ off\ using\ the\ LOGOUT\ message\n\ @param\ id\ the\ unique\ client\ id\n
+comment9.params=args
+comment9.target=void\ main(java.lang.String[])
+comment9.text=\n\ main\ method\n
+numComments=10
